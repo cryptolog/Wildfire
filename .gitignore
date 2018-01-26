@@ -1,0 +1,34 @@
+src/*.exe
+src/wildfire
+src/wildfired
+src/test_wildfire
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.wildfire
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+wildfire-qt
+Wildfire-Qt.app
+
+# Unit-tests
+Makefile.test
+wildfire-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

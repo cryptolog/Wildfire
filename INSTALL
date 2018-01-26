@@ -1,0 +1,9 @@
+Building Wildfire
+
+See doc/readme-qt.rst for instructions on building Wildfire-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wildfire.
+
+See doc/build-*.txt for instructions on building wildfired,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wildfire.
