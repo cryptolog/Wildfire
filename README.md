@@ -13,7 +13,7 @@ https://github.com/Alchemists-Guild/WildfireClient
 What is Wildfire?
 ----------------
 
-Wildfire is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Wildfire is a faster version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 30 second block targets
  - subsidy halves in 4200000 blocks (~4 years)
  - 35 billion total coins
