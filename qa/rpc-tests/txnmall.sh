@@ -95,8 +95,8 @@ TXID2=$( $CLI $B1ARGS sendtoaddress $B2ADDRESS 2.0 )
 RAWTX1=$( $CLI $B1ARGS getrawtransaction $TXID1 )
 RAWTX2=$( $CLI $B1ARGS getrawtransaction $TXID2 )
 # ... mutate RAWTX1:
-# RAWTX1 is hex-encoded, serialized transaction. So each
-# byte is two characters; we'll prepend the first
+# RAWTX1 is hex-encoded, serialized transaction.
+# So each byte is two characters; we'll prepend the first
 # "push" in the scriptsig with OP_PUSHDATA1 (0x4c),
 # and add one to the length of the signature.
 # Fields are fixed; from the beginning:

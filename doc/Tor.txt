@@ -10,7 +10,7 @@ https://www.torproject.org/docs/faq.html.en#TBBSocksPort for how to properly
 configure Tor.
 
 
-1. Run wildfire behind a Tor proxy
+1. Run Wildfire behind a Tor proxy
 ---------------------------------
 
 The first step is running Wildfire behind a Tor proxy. This will already make all
