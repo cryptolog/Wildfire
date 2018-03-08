@@ -1,6 +1,8 @@
 Wildfire integration/staging tree
 ================================
 
+http://alchemists-guild.dx.am/
+
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Wildfire Developers
@@ -51,8 +53,7 @@ completely stable.
 Testing
 -------
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
+Testing and code review is the bottleneck for development. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
 lots of money.
 
